@@ -1,0 +1,22 @@
+.photo {
+  height: 75vh;
+  text-indent: -9999px;
+  background-attachment: fixed;
+
+  background-position: center center;
+  background-size: cover;
+}
+
+.touch {
+	.photo {
+		background-attachment: scroll;
+	}
+}
+
+.photo-2 {
+   background-image: url('../images/mood/photo4.jpg');
+}
+
+.photo-3 {
+   background-image: url('../images/mood/photo5.jpg');
+}
