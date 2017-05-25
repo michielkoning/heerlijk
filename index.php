@@ -2,7 +2,8 @@
 <html lang="nl">
 <head>
 	<meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <meta name="robots" content="noindex, nofollow" />
 
 	<title>Eeterij H'eerlijk &bull; Wageningen</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
